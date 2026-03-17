@@ -8,11 +8,11 @@
 <!-- ═══════════════════════════════════════════════════  -->
 <!--                  TYPING ANIMATION                   -->
 <!-- ═══════════════════════════════════════════════════  -->
-<div align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=🧠+AI+Engineer+%7C+Researcher+%7C+Architect;⚡+Bridging+Deep+Research+%26+Production+Systems;🗣️+NLP+%7C+Transformer+Fine-tuning+%7C+Sequence+Modeling;📈+Time+Series+%7C+🎵+Signal+Processing+%7C+👁️+CV;🔍+XAI+%7C+📱+Edge+AI+%7C+⛓️+AI+×+Blockchain" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&duration=4000&lines=🧠+AI+Engineer+%7C+Researcher+%7C+Architect;⚡+Bridging+Deep+Research+%26+Production+Systems;🗣️+NLP+%7C+Transformer+Fine-tuning+%7C+Sequence+Modeling;📈+Time+Series+%7C+🎵+Signal+Processing+%7C+👁️+CV;🔍+XAI+%7C+📱+Edge+AI+%7C+⛓️+AI+×+Blockchain" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
 <br/>
 
@@ -168,33 +168,6 @@ I am actively **building skills and working towards** mastery across the full sp
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════  -->
-<!--                  GITHUB STATS                       -->
-<!-- ═══════════════════════════════════════════════════  -->
-## 📊 &nbsp; GitHub Intelligence
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarthakML205&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" height="185"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakML205&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="185"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakML205&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFD700&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" height="185"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarthakML205&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFD700&area=true&area_color=58A6FF" width="95%"/>
-</div>
-
----
-
 <!-- ═══════════════════════════════════════════════════  -->
 <!--                   CONNECT                           -->
 <!-- ═══════════════════════════════════════════════════  -->
@@ -208,6 +181,14 @@ I am actively **building skills and working towards** mastery across the full sp
   <a href="mailto:sarthakpandeyml@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Drop%20me%20a%20mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  📎 &nbsp; <a href="https://www.linkedin.com/in/sarthak-pandey-28oct" target="_blank"><strong>linkedin.com/in/sarthak-pandey-28oct</strong></a>
+  &nbsp; | &nbsp;
+  ✉️ &nbsp; <a href="mailto:sarthakpandeyml@gmail.com"><strong>sarthakpandeyml@gmail.com</strong></a>
 </div>
 
 <br/>
