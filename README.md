@@ -8,11 +8,11 @@
 <!-- ═══════════════════════════════════════════════════  -->
 <!--                  TYPING ANIMATION                   -->
 <!-- ═══════════════════════════════════════════════════  -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&duration=4000&lines=🧠+AI+Engineer+%7C+Researcher+%7C+Architect;⚡+Bridging+Deep+Research+%26+Production+Systems;🗣️+NLP+%7C+Transformer+Fine-tuning+%7C+Sequence+Modeling;📈+Time+Series+%7C+🎵+Signal+Processing+%7C+👁️+CV;🔍+XAI+%7C+📱+Edge+AI+%7C+⛓️+AI+×+Blockchain" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&duration=4000&lines=AI+Engineer+%7C+Researcher+%7C+Architect;Bridging+Deep+Research+%26+Production+Systems;NLP+%7C+Transformer+Fine-tuning+%7C+Sequence+Modeling;Time+Series+%7C+Signal+Processing+%7C+Computer+Vision;XAI+%7C+Edge+AI+%7C+AI+x+Blockchain)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
