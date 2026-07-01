@@ -20,7 +20,7 @@
 <!--                   SOCIAL BADGES                     -->
 <!-- ═══════════════════════════════════════════════════  -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/sarthak-pandey-28oct" target="_blank">
+  <a href="www.linkedin.com/in/sarthak-pandey-8222b424a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -174,7 +174,7 @@ I am actively **building skills and working towards** mastery across the full sp
 ## 🤝 &nbsp; Let's Connect & Collaborate
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sarthak-pandey-28oct" target="_blank">
+  <a href="www.linkedin.com/in/sarthak-pandey-8222b424a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -186,7 +186,7 @@ I am actively **building skills and working towards** mastery across the full sp
 <br/>
 
 <div align="center">
-  📎 &nbsp; <a href="https://www.linkedin.com/in/sarthak-pandey-28oct" target="_blank"><strong>linkedin.com/in/sarthak-pandey-28oct</strong></a>
+  📎 &nbsp; <a href="www.linkedin.com/in/sarthak-pandey-8222b424a" target="_blank"><strong>linkedin.com/in/sarthak-pandey-28oct</strong></a>
   &nbsp; | &nbsp;
   ✉️ &nbsp; <a href="mailto:sarthakpandeyml@gmail.com"><strong>sarthakpandeyml@gmail.com</strong></a>
 </div>
