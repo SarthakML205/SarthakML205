@@ -2,7 +2,7 @@
 <!--                        HEADER BANNER                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="./file_00000000401871fdb2502d973fa23661.png" width="100%" alt="Sarthak Pandey — AI Engineer Banner"/>
+  <img src="./file_00000000401871fdb2502d973fa23661.png" width="60%" alt="Sarthak Pandey — AI Engineer Banner"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════  -->
