@@ -55,7 +55,7 @@
 
 ```yaml
 Name        : Sarthak Pandey
-Role        : Aspiring AI Engineer  ( Research ↔ Production )
+Role        : AI Engineer  ( Research ↔ Production )
 Learning    : Complex Deep Learning Architecture Design
 Approach    : Empirical Study → Rigorous Analysis → Production Deployment
 Focus Areas : NLP | Time Series | Computer Vision | Signal Processing
